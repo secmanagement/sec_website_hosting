@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53564170081",
+    "project_id": "sec-management",
+    "storage_bucket": "sec-management.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53564170081:android:24fac40e38f3053465af20",
+        "android_client_info": {
+          "package_name": "com.sec.management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA773Xj4PGTby9l-nS-7WKOPyYR0zo2X9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
